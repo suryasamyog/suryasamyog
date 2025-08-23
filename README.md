@@ -22,8 +22,9 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B;%E0%B4%B9%E0%B4%BE%E0%B4%AF+%F0%9F%91%8B;%E0%A4%B9%E0%A4%BE%E0%A4%AF+%F0%9F%91%8B;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D+%F0%9F%91%8B" alt="Typing SVG Hi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B;Namaskaram+%F0%9F%91%8B;Namaste+%F0%9F%91%8B;Vanakkam+%F0%9F%91%8B" alt="Typing SVG Hi" />
 </p>
+
 
 
 
