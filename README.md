@@ -23,7 +23,7 @@
 
   <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=1200&color=000000&center=true&vCenter=true&width=720&lines=i+translate+patterns;open+to+collaboration+%2F+research+ideas"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=1200&color=ffffff&center=true&vCenter=true&width=720&lines=i+translate+patterns;open+to+collaboration+%2F+research+ideas"
     alt="typing svg"
   />
 </p>
