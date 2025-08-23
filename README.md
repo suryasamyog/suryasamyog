@@ -9,15 +9,15 @@
 
 <p align="left">
   <a href="mailto:psuryasamyog@gmail.com">
-    <img src="./email_pixel.svg" alt="Email" height="22">
+    <img src="./emailpixel.svg" alt="Email" height="22">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/suryasamyog" target="_blank">
-    <img src="./instagram_pixel.svg" alt="Instagram" height="22">
+    <img src="./instagrampixel.svg" alt="Instagram" height="22">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/suryasamyog/surya-samyog/raw/main/resume.pdf" target="_blank">
-    <img src="./resume_pixel.svg" alt="Resume" height="22">
+    <img src="./resumepixel.svg" alt="Resume" height="22">
   </a>
 </p>
 
