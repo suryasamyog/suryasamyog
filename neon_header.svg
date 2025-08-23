@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1400 360" style="enable-background:new 0 0 1400 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:7.000000e-02;fill:none;stroke:#39FF14;}
+	.st2{fill:#0A0A0A;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{filter:url(#glow);}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'Menlo-Regular';}
+	.st7{font-size:64px;}
+	.st8{letter-spacing:1;}
+	.st9{enable-background:new    ;}
+	.st10{fill:#39FF14;}
+	.st11{font-size:24px;}
+	.st12{font-size:18px;}
+	.st13{font-size:90.5897px;}
+	.st14{opacity:0.5;}
+	.st15{opacity:0.5;fill:#39FF14;enable-background:new    ;}
+</style>
+<filter  id="glow">
+	<feGaussianBlur  result="coloredBlur" stdDeviation="6"></feGaussianBlur>
+	<feMerge>
+		<feMergeNode  in="coloredBlur"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<pattern  y="360" width="40" height="40" patternUnits="userSpaceOnUse" id="grid" viewBox="0.5 -40.5 40 40" style="overflow:visible;">
+	<g>
+		<rect x="0.5" y="-40.5" class="st0" width="40" height="40"/>
+		<g>
+			<polyline class="st1" points="40.5,-0.5 0.5,-0.5 0.5,-40.5 			"/>
+		</g>
+	</g>
+</pattern>
+<rect class="st2" width="1400" height="360"/>
+<pattern  id="SVGID_1_" xlink:href="#grid" patternTransform="matrix(1 0 0 -1 0 -15704)">
+</pattern>
+<rect class="st3" width="1400" height="360"/>
+<g class="st4">
+	<text transform="matrix(1 0 0 1 70 130)" class="st5 st6 st7 st8">P. Surya Samyog</text>
+	<g class="st9">
+		<text transform="matrix(1 0 0 1 71.1157 279.9778)" class="st10 st6 st11">Neural Networks ✦ ML ✦ Mathematical Modelling &amp; Simulations of Materials</text>
+	</g>
+	<g class="st9">
+		<text transform="matrix(1 0 0 1 70.2158 199.5616)" class="st10 st6 st12">GitHub Profile • @suryasamyog</text>
+	</g>
+	<g class="st9">
+		<text transform="matrix(1 0 0 1 692.7891 113.6367)" class="st10 st6 st13">*</text>
+	</g>
+</g>
+<g class="st14">
+	<rect x="60" y="225.1" class="st10" width="1280" height="2"/>
+	<rect x="60" y="229.1" class="st15" width="1280" height="2"/>
+</g>
+</svg>
