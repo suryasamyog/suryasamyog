@@ -41,17 +41,9 @@
 
 
 
-### ░ Stats (neon themes)
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryasamyog&show_icons=true&theme=merko&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryasamyog&layout=compact&theme=merko&hide_border=true" />
-</p>
 
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=suryasamyog&theme=green_nur&hide_border=true" />
-</p>
+<img src="https://your-vercel-deployment.vercel.app/api?username=suryasamyog&font=Fira+Code" />
 
-<img src="./neon_divider.svg" alt="divider"/>
 
 
 
