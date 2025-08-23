@@ -55,21 +55,6 @@
 
 <img src="./neon_divider.svg" alt="divider"/>
 
-### ░ Tech Stack
-<img src="https://img.shields.io/badge/Python-39FF14?logo=python&logoColor=000&labelColor=000000&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-39FF14?logo=numpy&logoColor=000&labelColor=000000&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-39FF14?logo=pytorch&logoColor=000&labelColor=000000&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quantum%20Espresso-39FF14?labelColor=000000&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASE-39FF14?labelColor=000000&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LaTeX-39FF14?logo=latex&logoColor=000&labelColor=000000&style=for-the-badge"/>
 
-<img src="./neon_divider.svg" alt="divider"/>
-
-### ░ Featured
-- 🔬 **DFT / MD**: datasets & scripts for 2D-TMD catalysis
-- 🧠 **EGNN / Equivariance**: experiments with angles and 3-node interactions
-- 📊 **Notebooks**: clean, reproducible experiments
-
-> If you like the vibe, star a repo ⭐
 
 
