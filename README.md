@@ -23,8 +23,4 @@
   </a>
 </p>
 
-  <a href="mailto:psuryasamyog@gmail.com" data-text="Email">Email</a>
-  <a href="https://instagram.com/suryasamyog" target="_blank" data-text="Instagram">Instagram</a>
-  <a href="resume.pdf" target="_blank" data-text="Resume">Resume</a>
-</body>
-</html>
+  
