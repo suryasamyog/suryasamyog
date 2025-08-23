@@ -31,41 +31,9 @@
 
 <img src="./neon_divider.svg" alt="divider"/>
 
-<h2 align="center">Neural Networks and ML</h2>
-
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size:20px;">
-    Languages known: <b>Python</b> – <b>C++</b> – <b>Bash</b>
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=300&pause=500&color=39FF14&center=true&vCenter=true&width=720&lines=NumPy_;NuMPy;Numpy;" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size:14px;">
-    Libraries and Packages:  
-    <span class="blink">NumPy</span> – 
-    <span class="blink2">Matplotlib</span> – 
-    <span class="blink3">PyTorch</span> – 
-    <span class="blink">Keras</span> – 
-    <span class="blink2">PyTorch Geometric</span> – 
-    <span class="blink3">DeepXDE</span>
-  </span>
-</p>
-
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-.blink {
-  animation: blink 1s infinite;
-}
-.blink2 {
-  animation: blink 1.5s infinite;
-}
-.blink3 {
-  animation: blink 2s infinite;
-}
-</style>
-
 
 
 
