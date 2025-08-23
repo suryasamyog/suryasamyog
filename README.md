@@ -29,7 +29,7 @@
 </p>
 
 
-<img src="./neon_divider.svg" alt="divider"/>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=300&pause=500&color=39FF14&center=true&vCenter=true&width=720&lines=NumPy_;NuMPy;Numpy;" alt="Typing SVG" />
