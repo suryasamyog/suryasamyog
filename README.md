@@ -44,7 +44,7 @@
 
 
 
-<img src="github-readme-stats-ajcet5gdv-suryas-projects-fb936e84.vercel.app/api?username=suryasamyog&show_icons=true&theme=Dark&hide_border=true" />
+<img src="github-readme-stats-git-master-suryas-projects-fb936e84.vercel.app/api?username=suryasamyog&show_icons=true&theme=Dark&hide_border=true" />
 
 
 
