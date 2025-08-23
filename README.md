@@ -1,4 +1,4 @@
-# surya-samyog
+
 <!-- Cyberpunk / Neon Green GitHub Profile README -->
 
 <p align="center">
