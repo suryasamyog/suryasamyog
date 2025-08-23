@@ -27,9 +27,11 @@
 
 
 <p align="center">
-  <img src="./about.svg" alt="Neon header" />
+  <img src="./about.svg" alt="about" />
 </p>
 
+
+<img src="./neon_divider.svg" alt="divider"/>
 
   <p align="center">
   <img
