@@ -1,5 +1,4 @@
 
-<!-- Cyberpunk / Neon Green GitHub Profile README -->
 
 <p align="center">
   <img src="./neon_header.svg" alt="Neon header" />
@@ -45,7 +44,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryasamyog&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-ajcet5gdv-suryas-projects-fb936e84.vercel.app/api?username=suryasamyog&show_icons=true&theme=tokyonight&font=Fira+Code&title_color=ffcb6b&text_color=a6accd&icon_color=c792ea&bg_color=1e1e2e" />
+
 
 
 
