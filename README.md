@@ -26,7 +26,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="./about.svg" alt="Neon header" />
+</p>
 
 
   <p align="center">
