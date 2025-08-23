@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-suryas-projects-fb936e84.vercel.app/api?username=suryasamyog&show_icons=true&theme=surya_theme&hide_border=true" />
-  <img src="https://github-readme-stats-git-master-suryas-projects-fb936e84.vercel.app/api/top-langs/?username=suryasamyog&layout=compact&theme=surya_theme&hide_border=true" />
 </p>
 
 
