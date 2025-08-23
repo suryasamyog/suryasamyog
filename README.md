@@ -45,8 +45,8 @@
 
 
 
+<img src="https://github-readme-stats-suryasamyog.vercel.app/api?username=suryasamyog&font=Fira+Code" />
 
-<img src="https://your-vercel-deployment.vercel.app/api?username=suryasamyog&font=Fira+Code" />
 
 
 
