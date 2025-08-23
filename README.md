@@ -35,6 +35,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=300&pause=500&color=39FF14&center=true&vCenter=true&width=720&lines=NumPy_;NuMPy;Numpy;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=500&pause=300&color=FF61F6&vCenter=true&repeat=true&lines=NumPy;Pandas;Matplotlib;PyTorch;Keras;TensorFlow" />
+</p>
 
 
 
