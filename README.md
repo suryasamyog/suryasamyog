@@ -44,8 +44,6 @@
 
 
 
-![Surya's GitHub stats](https://github-readme-stats-git-master-suryas-projects-fb936e84.vercel.app/api?username=suryasamyog&show_icons=true&theme=Dark&hide_border=true)
-
 
 
 
