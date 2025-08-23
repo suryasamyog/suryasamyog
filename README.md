@@ -31,24 +31,14 @@
 
 <img src="./neon_divider.svg" alt="divider"/>
 
-<!-- Section 1: Neural Networks & ML -->
-<p align="center" style="font-family:'Fira Code', monospace; font-size:18px;">
-  <span style="color:#39FF14;"><b>Neural Networks • Machine Learning</b></span>
+<!-- Neural Networks and ML -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Languages+known:+Python+-+C%2B%2B+-+Bash;Libraries+and+Packages:+NumPy+-+Matplotlib+-+PyTorch+-+Keras+-+DeepXDE+-+PyTorch+Geometric"
+    alt="Typing SVG"
+  />
 </p>
 
-<!-- Section 2: Languages & Libraries -->
-<p align="center" style="font-family:'Fira Code', monospace; font-size:16px;">
-  <span style="animation: blink 1.5s infinite; color:#39FF14;">
-    Python • C++ • MATLAB • PyTorch • TensorFlow • NumPy • Pandas • ASE • Quantum ESPRESSO
-  </span>
-</p>
-
-<!-- CSS for blinking -->
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 
 
