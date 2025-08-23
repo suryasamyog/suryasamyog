@@ -28,9 +28,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF61F6&center=true&vCenter=true&repeat=false&lines=#############################################" />
-</p>
+<img src="./neon_divider.svg" alt="divider"/>
 
 
 <p align="center">
