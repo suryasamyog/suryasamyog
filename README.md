@@ -45,7 +45,7 @@
 
 
 <p>
-  <img height="170" src="https://github-readme-stats-git-master-suryas-projects-fb936e84.vercel.app/api/top-langs/?username=suryasamyog&layout=compact&theme=merko&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-jb2jnloph-suryas-projects-fb936e84.vercel.app/api/top-langs/?username=suryasamyog&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 
