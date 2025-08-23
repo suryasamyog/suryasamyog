@@ -16,7 +16,7 @@
     <img src="./instagrampixel.svg" alt="Instagram" height="22">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/suryasamyog/surya-samyog/raw/main/resume.pdf" target="_blank">
+  <a href="https://github.com/suryasamyog/suryasamyog/raw/main/resume.pdf" target="_blank">
     <img src="./resumepixel.svg" alt="Resume" height="22">
   </a>
 </p>
