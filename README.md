@@ -7,7 +7,7 @@
 
 
 
-<p align="left">
+<p align="right">
   <a href="mailto:psuryasamyog@gmail.com">
     <img src="./emailpixel.svg" alt="Email" height="22">
   </a>
