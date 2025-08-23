@@ -10,15 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/suryasamyog">
-    <img src="https://img.shields.io/badge/Code-Open%20Source-39FF14?style=for-the-badge&labelColor=000000">
+
+  <a href="mailto:psuryasamyog@gmail.com">
+    <img src="https://img.shields.io/badge/Email-39FF14?style=flat-square&logo=gmail&logoColor=000&labelColor=000000" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Contact-Email-39FF14?style=for-the-badge&labelColor=000000">
+
+  <a href="https://instagram.com/suryasamyog">
+    <img src="https://img.shields.io/badge/Instagram-39FF14?style=flat-square&logo=instagram&logoColor=000&labelColor=000000" />
   </a>
-  <img src="https://img.shields.io/badge/Theme-Neon%20Green-39FF14?style=for-the-badge&labelColor=000000">
+
+  <a href="https://github.com/suryasamyog/surya-samyog/raw/main/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-39FF14?style=flat-square&logo=readthedocs&logoColor=000&labelColor=000000" />
+  </a>
+
 </p>
-
-<img src="./neon_divider.svg" alt="divider"/>
-
-### ░ Terminal-Card (ASCII vibes)
