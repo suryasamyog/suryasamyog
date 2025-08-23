@@ -9,18 +9,78 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Building+ML+%E2%80%A2+Simulations+%E2%80%A2+Materials;Always+in+Cyberpunk+Green+%E2%9A%A1;Open+to+collab+%2F+research+ideas" alt="typing svg">
 </p>
 
-<p align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glitch Links</title>
+  <style>
+    body {
+      background: black;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: monospace;
+    }
 
-  <a href="mailto:psuryasamyog@gmail.com">
-    <img src="https://img.shields.io/badge/Email-39FF14?style=flat-square&logo=gmail&logoColor=000&labelColor=000000" />
-  </a>
+    a {
+      position: relative;
+      font-size: 2rem;
+      color: #39ff14; /* neon green */
+      text-decoration: none;
+      margin: 15px 0;
+      letter-spacing: 2px;
+      display: inline-flex;
+      align-items: center;
+    }
 
-  <a href="https://instagram.com/suryasamyog">
-    <img src="https://img.shields.io/badge/Instagram-39FF14?style=flat-square&logo=instagram&logoColor=000&labelColor=000000" />
-  </a>
+    a::after {
+      content: " ➜"; /* arrow indicator */
+      margin-left: 8px;
+      color: #39ff14;
+    }
 
-  <a href="https://github.com/suryasamyog/surya-samyog/raw/main/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-39FF14?style=flat-square&logo=readthedocs&logoColor=000&labelColor=000000" />
-  </a>
+    /* glitch animation */
+    a::before {
+      content: attr(data-text);
+      position: absolute;
+      left: 2px;
+      text-shadow: -2px 0 #ff00c1;
+      top: 0;
+      color: #39ff14;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      animation: glitch 2s infinite linear alternate-reverse;
+    }
 
-</p>
+    @keyframes glitch {
+      0% {
+        clip: rect(20px, 9999px, 21px, 0);
+      }
+      20% {
+        clip: rect(60px, 9999px, 61px, 0);
+      }
+      40% {
+        clip: rect(10px, 9999px, 11px, 0);
+      }
+      60% {
+        clip: rect(40px, 9999px, 41px, 0);
+      }
+      80% {
+        clip: rect(30px, 9999px, 31px, 0);
+      }
+      100% {
+        clip: rect(50px, 9999px, 51px, 0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <a href="mailto:psuryasamyog@gmail.com" data-text="Email">Email</a>
+  <a href="https://instagram.com/suryasamyog" target="_blank" data-text="Instagram">Instagram</a>
+  <a href="resume.pdf" target="_blank" data-text="Resume">Resume</a>
+</body>
+</html>
