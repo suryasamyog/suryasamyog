@@ -31,6 +31,36 @@
 
 <img src="./neon_divider.svg" alt="divider"/>
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+.blink {
+  font-family: 'Fira Code', monospace;
+  animation: blink-animation 1.2s steps(2, start) infinite;
+  color: #39FF14; /* neon green */
+  background-color: #000; /* black background */
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+</style>
+
+<h3 class="blink">Neural Networks & Machine Learning</h3>
+<p style="font-family:'Fira Code', monospace; color:#39FF14;">
+CNN • LSTM • GNN • EGNN • PINNs • Random Forest • Logistic Regression
+</p>
+
+<h3 class="blink">Languages & Libraries</h3>
+<p style="font-family:'Fira Code', monospace; color:#39FF14;">
+Python • C • C++ • NumPy • Pandas • PyTorch • TensorFlow • ASE • Quantum Espresso • Burai • LaTeX
+</p>
+
+
 ### ░ Stats (neon themes)
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryasamyog&show_icons=true&theme=merko&hide_border=true" />
