@@ -49,6 +49,29 @@
   />
 </p>
 
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![R](https://img.shields.io/badge/R-1e1e1e?style=for-the-badge&logo=r&logoColor=276DC3)
+<br>
+![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=67C23A)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+<br>
+![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-1e1e1e?style=for-the-badge&logo=markdown&logoColor=white)
+<br>
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![RStudio](https://img.shields.io/badge/RStudio-1e1e1e?style=for-the-badge&logo=rstudio&logoColor=75AADB)
+![Eclipse](https://img.shields.io/badge/Eclipse-1e1e1e?style=for-the-badge&logo=eclipseide&logoColor=2C2255)
+<br>
+![Illustrator](https://img.shields.io/badge/Illustrator-1e1e1e?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Photoshop](https://img.shields.io/badge/Photoshop-1e1e1e?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![InDesign](https://img.shields.io/badge/InDesign-1e1e1e?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
 
 
