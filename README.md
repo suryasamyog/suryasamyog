@@ -30,13 +30,13 @@
 
 <img src="./neon_divider.svg" alt="divider"/>
 
-- ✦ i am an undergraduate researcher who loves mathematics, neural networks, patterns and symmetry.
-- ✦ completed my bachelors in materials science and engineering from nit calicut.
-- ✦ currently working on equivariant graph neural networks (egnns).
-- ✦ i like theoretical machine learning and mathematical modelling of materials properties.
-- ✦ lifelong machine learning sounds very cool and I would like to learn more about it.
-- ✦ i also make digital art, occasionally.
-- ✦ have a look at my resume to know more about me. I am open to feedback and suggestions.
+✦ i am an undergraduate researcher who loves mathematics, neural networks, patterns and symmetry.
+✦ completed my bachelors in materials science and engineering from nit calicut.
+✦ currently working on equivariant graph neural networks (egnns).
+✦ i like theoretical machine learning and mathematical modelling of materials properties.
+✦ lifelong machine learning sounds very cool and I would like to learn more about it.
+✦ i also make digital art, occasionally.
+✦ have a look at my resume to know more about me. I am open to feedback and suggestions.
 
 
 <img src="./neon_divider.svg" alt="divider"/>
