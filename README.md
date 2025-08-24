@@ -49,29 +49,37 @@
   />
 </p>
 
-![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![R](https://img.shields.io/badge/R-1e1e1e?style=for-the-badge&logo=r&logoColor=276DC3)
+<img src="./neon_divider.svg" alt="divider"/>
+
+##tech stack </>
+
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=1e1e1e)
+![C++](https://img.shields.io/badge/C++-39FF14?style=for-the-badge&logo=c%2B%2B&logoColor=1e1e1e)
+![Bash](https://img.shields.io/badge/Bash-39FF14?style=for-the-badge&logo=gnubash&logoColor=1e1e1e)
+![PyTorch](https://img.shields.io/badge/PyTorch-39FF14?style=for-the-badge&logo=pytorch&logoColor=1e1e1e)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-39FF14?style=for-the-badge&logo=pytorch&logoColor=1e1e1e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-39FF14?style=for-the-badge&logo=tensorflow&logoColor=1e1e1e)
+![Keras](https://img.shields.io/badge/Keras-39FF14?style=for-the-badge&logo=keras&logoColor=1e1e1e)
+![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=1e1e1e)
+![Pandas](https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=1e1e1e)
 <br>
-![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=67C23A)
-![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-39FF14?style=for-the-badge&logo=visualstudiocode&logoColor=1e1e1e)
+![Xcode](https://img.shields.io/badge/Xcode-39FF14?style=for-the-badge&logo=xcode&logoColor=1e1e1e)
+![Homebrew](https://img.shields.io/badge/Homebrew-39FF14?style=for-the-badge&logo=homebrew&logoColor=1e1e1e)
+![Quantum Espresso](https://img.shields.io/badge/Quantum%20Espresso-39FF14?style=for-the-badge&logoColor=1e1e1e)
+![ASE](https://img.shields.io/badge/ASE-39FF14?style=for-the-badge&logoColor=1e1e1e)
+![VESTA](https://img.shields.io/badge/VESTA-39FF14?style=for-the-badge&logoColor=1e1e1e)
+![BURAI](https://img.shields.io/badge/BURAI-39FF14?style=for-the-badge&logoColor=1e1e1e)
 <br>
-![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-1e1e1e?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=1e1e1e)
+![NOMAD](https://img.shields.io/badge/NOMAD-39FF14?style=for-the-badge&logoColor=1e1e1e)
+![LaTeX](https://img.shields.io/badge/LaTeX-39FF14?style=for-the-badge&logo=latex&logoColor=1e1e1e)
 <br>
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![RStudio](https://img.shields.io/badge/RStudio-1e1e1e?style=for-the-badge&logo=rstudio&logoColor=75AADB)
-![Eclipse](https://img.shields.io/badge/Eclipse-1e1e1e?style=for-the-badge&logo=eclipseide&logoColor=2C2255)
-<br>
-![Illustrator](https://img.shields.io/badge/Illustrator-1e1e1e?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Photoshop](https://img.shields.io/badge/Photoshop-1e1e1e?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![InDesign](https://img.shields.io/badge/InDesign-1e1e1e?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![Photoshop](https://img.shields.io/badge/Photoshop-39FF14?style=for-the-badge&logo=adobephotoshop&logoColor=1e1e1e)
+![Illustrator](https://img.shields.io/badge/Illustrator-39FF14?style=for-the-badge&logo=adobeillustrator&logoColor=1e1e1e)
+![After Effects](https://img.shields.io/badge/After%20Effects-39FF14?style=for-the-badge&logo=adobeaftereffects&logoColor=1e1e1e)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-39FF14?style=for-the-badge&logo=davinciresolve&logoColor=1e1e1e)
+
 
 
 
