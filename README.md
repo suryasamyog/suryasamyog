@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=720&lines=i+translate+patterns;open+to+collaboration+%2F+research+ideas"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=720&lines=i+translate+patterns;open+to+collaboration+%2F+research+ideas"
     alt="typing svg"
   />
 </p>
