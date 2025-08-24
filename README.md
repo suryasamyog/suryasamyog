@@ -78,7 +78,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FBFCFF?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FBFCFF?style=for-the-badge&logo=davinciresolve&logoColor=black)
 
 
 
