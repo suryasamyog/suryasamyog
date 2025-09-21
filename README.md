@@ -27,30 +27,6 @@
 
 
 
-
-<img src="./neon_divider.svg" alt="divider"/>
-
-- ✦ i am an undergraduate researcher who loves mathematics, neural networks, patterns and symmetry.
-- ✦ completed my bachelors in materials science and engineering from nit calicut.
-- ✦ currently working on equivariant graph neural networks (egnns).
-- ✦ i like theoretical machine learning and mathematical modelling of materials properties.
-- ✦ lifelong machine learning sounds very cool and I would like to learn more about it.
-- ✦ i also make digital art, occasionally.
-- ✦ have a look at my resume to know more about me. I am open to feedback and suggestions.
-
-
-<img src="./neon_divider.svg" alt="divider"/>
-
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=720&lines=i+translate+patterns;open+to+collaboration+%2F+research+ideas"
-    alt="typing svg"
-  />
-</p>
-
-<img src="./neon_divider.svg" alt="divider"/>
-
 ## tech stack </>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
